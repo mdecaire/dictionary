@@ -1,4 +1,4 @@
 # dictionary
 Repository for Dictionary Problem on HackerRank
-# link
+# Specifications
 This is a solution to a HackerRank problem 
