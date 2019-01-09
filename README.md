@@ -1,6 +1,7 @@
-# dictionary
+# Dictionary
 Repository for Dictionary Problem on HackerRank
-# Specifications
+## Specifications
 This is a solution to [this HackerRank problem.](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
-<br>The specifications can be found [here.](https://github.com/mdecaire/dictionary/blob/master/Specifications.pdf)
-<br>[Here](https://confessionsofajuniordeveloper.wordpress.com/2019/01/09/dictionary-problem-in-c/) is a link to my blog post about the solution.
+The specifications can be found [here.](https://github.com/mdecaire/dictionary/blob/master/Specifications.pdf)
+### Additional Information
+I wrote a [blog post](https://confessionsofajuniordeveloper.wordpress.com/) as an outline of my thoughts on this problem. 
